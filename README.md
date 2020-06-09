@@ -7,3 +7,5 @@ In this repository you can get some minor projects in the Machine Learning domai
   </a><br>
 In this Directory you can see my project which I got during my Machine Learning Internship at 
 <a href="https://verzeo.in/">Verzeo</a>
+
+<a href="https://github.com/Abhinav-26/Machine-Learning-Minor-Projects/tree/master/Co2%20Emission%20Prediction">Co2 Emission Prediction</a>
