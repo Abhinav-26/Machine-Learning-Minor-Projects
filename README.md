@@ -8,4 +8,7 @@ In this Directory you can see my project which I got during my Machine Learning 
 <a href="https://verzeo.in/">Verzeo</a><br><br>
 
 <a href="https://github.com/Abhinav-26/Machine-Learning-Minor-Projects/tree/master/Co2%20Emission%20Prediction">Co2 Emission Prediction</a><br>
-In this directory you can see a basic machine learning model on Carbondioxide Emission Prediction whihc has been created by using Linear Regression concept.
+In this directory you can see a basic machine learning model on Carbondioxide Emission Prediction whihc has been created by using Linear Regression concept.<br><br>
+
+K-Nearest Neighbors
+In this directory a sample code / model is being created using the concepts of KNN.
