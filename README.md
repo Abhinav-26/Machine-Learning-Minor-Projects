@@ -14,5 +14,5 @@ In this directory you can see a basic machine learning model on Carbondioxide Em
 In this directory a basic machine learning model is being created for classifying the class of the new coustomers among 
 1- Basic Service, 2- E-Service, 3- Plus Service, 4-Total Service.<br><br>
 
-<a href="">Drug Prescribtion using Decision Tree</a><br>
+<a href="https://github.com/Abhinav-26/Machine-Learning-Minor-Projects/tree/master/Drug%20Prescribtion%20Using%20DecisionTree">Drug Prescribtion using Decision Tree</a><br>
 In the directory I have created a model for predicting the drug which needs to be given to patients having the same disease as per the previous experience.
