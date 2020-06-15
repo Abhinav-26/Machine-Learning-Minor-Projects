@@ -15,4 +15,6 @@ In this directory a basic machine learning model is being created for classifyin
 1- Basic Service, 2- E-Service, 3- Plus Service, 4-Total Service.<br><br>
 
 <a href="https://github.com/Abhinav-26/Machine-Learning-Minor-Projects/tree/master/Drug%20Prescribtion%20Using%20DecisionTree">Drug Prescribtion using Decision Tree</a><br>
-In this directory I have created a model for predicting the drug which needs to be given to patients having the same disease as per the previous experience and the model created have a 100% accuracy, tested on the 30 of the dataset which was not given for training.
+In this directory I have created a model for predicting the drug which needs to be given to patients having the same disease as per the previous experience and the model created have a 100% accuracy, tested on the 30 of the dataset which was not given for training.<br><br>
+
+<a href="https://github.com/Abhinav-26/Machine-Learning-Minor-Projects/tree/master/SVM%20Cancer%20Prediction">SVM Cancer Prediction</a>
