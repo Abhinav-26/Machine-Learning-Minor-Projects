@@ -18,4 +18,4 @@ In this directory a basic machine learning model is being created for classifyin
 In this directory I have created a model for predicting the drug which needs to be given to patients having the same disease as per the previous experience and the model created have a 100% accuracy, tested on the 30 of the dataset which was not given for training.<br><br>
 
 <a href="https://github.com/Abhinav-26/Machine-Learning-Minor-Projects/tree/master/SVM%20Cancer%20Prediction">SVM Cancer Prediction</a><br>
-In this directory I have created a model using SVM algorithm. The dataset used for creating the model is a record of cell samples of the patients. The dataset consists of 699 records and I got accuracy around 95% with.
+In this directory I have created a model using SVM algorithm. The dataset used for creating the model is a record of cell samples of the patients. The dataset consists of 699 records and I got accuracy around 95% with accuracy_score and f1 score.
