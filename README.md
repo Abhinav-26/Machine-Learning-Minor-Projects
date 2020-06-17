@@ -21,4 +21,4 @@ In this directory I have created a model for predicting the drug which needs to 
 In this directory I have created a model using SVM algorithm. The dataset used for creating the model is a record of cell samples of the patients. The dataset consists of 699 records and I got accuracy around 95% with accuracy_score and f1 score.<br><br>
 
 <a href="https://github.com/Abhinav-26/Machine-Learning-Minor Projects/tree/master/Logistic%20Regression%20on%20Churn%20Dataset">Logistic Regression on Churn Dataset</a><br>
-In this directory you can see a basic prediction using the concept of Logistic Regression.
+In this directory you can see a basic prediction using the concept of Logistic Regression. I have used the Churn dataset for making this small project.
