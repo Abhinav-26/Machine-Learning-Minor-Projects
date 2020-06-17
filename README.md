@@ -1,5 +1,5 @@
 # Machine-Learning-Minor-Projects
-In this repository you can get some minor projects in the Machine Learning domain to learn and practise and increase your Skills. Also I will share my own projects which I did during some Internship which I did in the field of Machine Learning/ Deep Learning.
+In this repository you can get some minor projects in the Machine Learning domain to learn and practise and increase your Skills. I will be sharing my own small projects which I did during learning ML and understanding the concepts of different algorithms and implementing it.
 
 <a href="https://github.com/Abhinav-26/Machine-Learning-Minor-Projects/tree/master/Verzeo%20InternShip">
   Verzeo Internship
