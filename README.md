@@ -24,4 +24,4 @@ In this directory I have created a model using SVM algorithm. The dataset used f
 In this directory you can see a basic prediction using the concept of Logistic Regression. I have used the Churn dataset for predicting coustomer's churn.<br><br>
 
 <a href="https://github.com/Abhinav-26/Machine-Learning-Minor-Projects/tree/master/Phone%20Price%20Range%20Prediction">Phone Price Prediction</a><br>
-In this directory I have crrated a model for predicting the range of price of a phone. The range lies between 1,2,3 ie, low, medium and high budget.
+In this directory I have crrated a model for predicting the range of price of a phone. The range lies between 1,2,3 ie, low, medium and high budget. I have implemented the concepts of Univariate Feature Selection and Feature Importance for selecting features from the dataset and then created a model for prediction.
