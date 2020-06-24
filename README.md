@@ -27,4 +27,6 @@ In this directory you can see a basic prediction using the concept of Logistic R
 In this directory I have crrated a model for predicting the range of price of a phone. The range lies between 1,2,3 ie, low, medium and high budget. I have implemented the concepts of Univariate Feature Selection and Feature Importance for selecting features from the dataset and then created a model for prediction. Also I used have used Logistic Regression, Decision Tree and KNN algorithms and I got better accuracy by using LogisticRegression algo in this case. I got accuracy around 96% for that.<br><br>
 
 <a href="https://github.com/Abhinav-26/Machine-Learning-Minor-Projects/tree/master/Coustomer%20Segmentation%20using%20K-Means%20Clustering">Customer Sementation Using K-means Clustering</a><br>
-In this dir I have used the concept of K-means Clustering and made a model using customer segmentation dataset. It helps to cluster records on the basis of graph plotted.
+In this dir I have used the concept of K-means Clustering and made a model using customer segmentation dataset. It helps to cluster records on the basis of graph plotted.<br><br>
+
+<a href="https://github.com/Abhinav-26/Machine-Learning-Minor-Projects/tree/master/Cars%20Segmentation%20using%20Heirarichal%20Clustering">Cars Segmentation using Heirarichal Clustering</a>
