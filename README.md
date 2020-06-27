@@ -30,7 +30,7 @@ In this directory I have crrated a model for predicting the range of price of a 
 In this dir I have used the concept of K-means Clustering and made a model using customer segmentation dataset. It helps to cluster records on the basis of graph plotted.<br><br>
 
 <a href="https://github.com/Abhinav-26/Machine-Learning-Minor-Projects/tree/master/Cars%20Segmentation%20using%20Heirarichal%20Clustering">Cars Segmentation using Heirarichal Clustering</a><br>
-In this direcory I have created a car segementation which may help you to classify the kinds of cars are more popular among coustomers and may help you to launch your car as per the survey. For this minor project I used the concept Hierarchical Clustering.
+In this direcory I have created a car segementation which may help you to classify the kinds of cars are more popular among coustomers and may help you to launch your car as per the survey. For this minor project I used the concept Hierarchical Clustering.<br><br>
 
-<a href="https://github.com/Abhinav-26/Machine-Learning-Minor-Projects/tree/master/Movie%20Recomendation">Movie Recomendation</a><br><br>
+<a href="https://github.com/Abhinav-26/Machine-Learning-Minor-Projects/tree/master/Movie%20Recomendation">Movie Recomendation</a><br>
 In this directory I have creates a Movie Recomendation system using the concept of content based recomendation system. The dataset used is very large and hence it cannot be directly Uploaded into GitHub. But you can download the data directly from <a href="moviedataset.zip https://s3-api.us-geo.objectstorage.softlayer.net/cf-courses-data/CognitiveClass/ML0101ENv3/labs/moviedataset.zip">here</a>. 
