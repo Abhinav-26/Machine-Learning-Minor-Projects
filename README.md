@@ -31,3 +31,5 @@ In this dir I have used the concept of K-means Clustering and made a model using
 
 <a href="https://github.com/Abhinav-26/Machine-Learning-Minor-Projects/tree/master/Cars%20Segmentation%20using%20Heirarichal%20Clustering">Cars Segmentation using Heirarichal Clustering</a><br>
 In this direcory I have created a car segementation which may help you to classify the kinds of cars are more popular among coustomers and may help you to launch your car as per the survey. For this minor project I used the concept Hierarchical Clustering.
+
+<a href="https://github.com/Abhinav-26/Machine-Learning-Minor-Projects/tree/master/Movie%20Recomendation">Movie Recomendation</a><br><br>
