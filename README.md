@@ -35,6 +35,6 @@ In this direcory we have created a car segmentation which may help you to classi
 <a href="https://github.com/Abhinav-26/Machine-Learning-Minor-Projects/tree/master/Movie%20Recomendation">Movie Recomendation</a><br>
 In this directory we have created a Movie Recomendation system using the concept of content based recomendation system. The dataset used is very large and hence it cannot be directly Uploaded into GitHub. But you can download the data directly from <a href="https://s3-api.us-geo.objectstorage.softlayer.net/cf-courses-data/CognitiveClass/ML0101ENv3/labs/moviedataset.zip">here</a>. Unzip the data and use the respected csv files.<br><br>
 
-<a href="">Reddit's Flair Detection with Transfer Learning + EDA</a><br>
+<a href="https://github.com/Abhinav-26/Machine-Learning-Minor-Projects/tree/master/Reddit's%20Flair%20Detection%20with%20Transfer%20Learning%20%2B%20EDA">Reddit's Flair Detection with Transfer Learning + EDA</a><br>
 In this directory we have created a Reddits Flair Detector. Here we are not lettting the Embedding Layer to initialize it's random weights. We are using a TRANSFER LEARNING approach to train the model. We are using FastText crawl embeddings for transfer learning. These are pre-trained word embeddings trained and released by Facebook after training on 2 million words.<br><br>
 
