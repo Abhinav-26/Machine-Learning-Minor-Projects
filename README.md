@@ -38,5 +38,5 @@ In this directory we have created a Movie Recomendation system using the concept
 <a href="https://github.com/Abhinav-26/Machine-Learning-Minor-Projects/tree/master/Reddit's%20Flair%20Detection%20with%20Transfer%20Learning%20%2B%20EDA">Reddit's Flair Detection with Transfer Learning + EDA</a><br>
 In this directory we have created a Reddits Flair Detector. Here we are not lettting the Embedding Layer to initialize it's random weights. We are using a TRANSFER LEARNING approach to train the model. We are using FastText crawl embeddings for transfer learning. These are pre-trained word embeddings trained and released by Facebook after training on 2 million words.<br><br>
 
-<a href="https://github.com/Abhinav-26/Machine-Learning-Minor-Projects/tree/master/Dog's%20Breed%20Prediction%20Using%20Transfer%20Learning">Dog's Breed Prediction Using Transfer Learning</a><br><br>
+<a href="https://github.com/Abhinav-26/Machine-Learning-Minor-Projects/tree/master/Dog's%20Breed%20Prediction%20Using%20Transfer%20Learning">Dog's Breed Prediction Using Transfer Learning</a><br>
 In this directory we have simply used the pre trained models and applied the concept of transfer learning for making our prediction easy.
