@@ -40,3 +40,13 @@ In this directory we have created a Reddits Flair Detector. Here we are not lett
 
 <a href="https://github.com/Abhinav-26/Machine-Learning-Minor-Projects/tree/master/Dog's%20Breed%20Prediction%20Using%20Transfer%20Learning">Dog's Breed Prediction Using Transfer Learning</a><br>
 In this directory we have simply used the pre-trained weights and applied the concept of transfer learning for making our prediction easy. We have used three pre-trained models in this minor project ie, <b>VGG16</b>, <b>Inception_v3</b> and <b>ResNet50</b> for predicting the breed of dog. In the File <b>Prediction Comparision</b> I have used the three models for the same image to check which gives the better accuracy and we concluded we got the best accurcay by Inception_v3 model. 
+
+<a href="https://github.com/Abhinav-26/Machine-Learning-Minor-Projects/tree/master/Feature%20Selection%20and%20Modelling%20on%20KDDCup%20Network%20Intrusion%20Dataset"> Feature Selection and Modelling on KDDCup Network Intrusion Dataset</a><br>
+In this project we created a Machine Learning model to check the network is under attack or not. We have used following five feature selection techniques in a sequence to extract the best features from the dataset.
+-	Correlation based feature selection
+-	Univariate Feature Selection
+-	Recursive Feature Elimination (RFE)
+-	Principle Component Analysis (PCA)
+-	Linear Discriminant Analysis (LDA)
+
+
