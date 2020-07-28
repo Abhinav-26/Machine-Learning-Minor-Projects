@@ -50,5 +50,5 @@ In this project we created a Machine Learning model to check the network is unde
 -	Linear Discriminant Analysis (LDA)<br>
 
 <a href="https://github.com/Abhinav-26/Machine-Learning-Minor-Projects/tree/master/Cat-Dog%20Prediction%20using%20CNN">14. Cat-Dog Prediction Using CNN</a><br>
-
+In this Project I have build a cat and Dog Prediction model using the concepts of CNN. This is a very basic project of CNN, in deep learning.
 
