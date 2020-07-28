@@ -47,6 +47,8 @@ In this project we created a Machine Learning model to check the network is unde
 -	Univariate Feature Selection
 -	Recursive Feature Elimination (RFE)
 -	Principle Component Analysis (PCA)
--	Linear Discriminant Analysis (LDA)
+-	Linear Discriminant Analysis (LDA)<br>
+
+<a href="https://github.com/Abhinav-26/Machine-Learning-Minor-Projects/tree/master/Cat-Dog%20Prediction%20using%20CNN">14. Cat-Dog Prediction Using CNN</a><br>
 
 
