@@ -1,11 +1,6 @@
 # Machine-Learning-Minor-Projects
 In this repository you can get some minor projects in the Machine Learning domain to learn and practise and increase your Skills. we will be sharing my own small projects which we did during learning ML and understanding the concepts of different algorithms and implementing it.
 
-<a href="https://github.com/Abhinav-26/Machine-Learning-Minor-Projects/tree/master/Verzeo%20InternShip">
-  1. Verzeo Internship
-  </a><br>
-In this Directory you can see my project which we got during my Machine Learning Internship at 
-<a href="https://verzeo.in/">Verzeo</a>. The project that we did in this training was on appstore datset.<br><br>
 
 <a href="https://github.com/Abhinav-26/Machine-Learning-Minor-Projects/tree/master/Co2%20Emission%20Prediction">2. Co2 Emission Prediction</a><br>
 In this directory you can see a basic machine learning model on Carbondioxide Emission Prediction whihc has been created by using Linear Regression concept.<br><br>
