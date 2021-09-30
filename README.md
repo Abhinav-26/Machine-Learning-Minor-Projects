@@ -1,16 +1,17 @@
 # Machine-Learning-Minor-Projects
 In this repository you can get some minor projects in the Machine Learning domain to learn and practise and increase your Skills. we will be sharing my own small projects which we did during learning ML and understanding the concepts of different algorithms and implementing it.
 
+## Classification & Regression
 
 <a href="https://github.com/Abhinav-26/Machine-Learning-Minor-Projects/tree/master/Co2%20Emission%20Prediction">1. Co2 Emission Prediction</a><br>
 In this directory you can see a basic machine learning model on Carbondioxide Emission Prediction whihc has been created by using Linear Regression concept.<br><br>
 
+<a href="https://github.com/Abhinav-26/Machine-Learning-Minor-Projects/tree/master/Drug%20Prescribtion%20Using%20DecisionTree">3. Drug Prescribtion using Decision Tree</a><br>
+In this directory we have created a model for predicting the drug which needs to be given to patients having the same disease as per the previous experience and the model created have a 100% accuracy, tested on the 30 of the dataset which was not given for training.<br><br>
+
 <a href="https://github.com/Abhinav-26/Machine-Learning-Minor-Projects/tree/master/K-Nearest%20Neighbors">2. K-Nearest Neighbors</a><br>
 In this directory a basic machine learning model is being created for classifying the class of the new coustomers among 
 1- Basic Service, 2- E-Service, 3- Plus Service, 4-Total Service.<br><br>
-
-<a href="https://github.com/Abhinav-26/Machine-Learning-Minor-Projects/tree/master/Drug%20Prescribtion%20Using%20DecisionTree">3. Drug Prescribtion using Decision Tree</a><br>
-In this directory we have created a model for predicting the drug which needs to be given to patients having the same disease as per the previous experience and the model created have a 100% accuracy, tested on the 30 of the dataset which was not given for training.<br><br>
 
 <a href="https://github.com/Abhinav-26/Machine-Learning-Minor-Projects/tree/master/SVM%20Cancer%20Prediction">4. SVM Cancer Prediction</a><br>
 In this directory we have created a model using SVM algorithm. The dataset used for creating the model is a record of cell samples of the patients. The dataset consists of 699 records and we got accuracy around 95% with accuracy_score and f1 score.<br><br>
@@ -30,9 +31,6 @@ In this direcory we have created a car segmentation which may help you to classi
 <a href="https://github.com/Abhinav-26/Machine-Learning-Minor-Projects/tree/master/Movie%20Recomendation">9. Movie Recomendation</a><br>
 In this directory we have created a Movie Recomendation system using the concept of content based recomendation system. The dataset used is very large and hence it cannot be directly Uploaded into GitHub. But you can download the data directly from <a href="https://s3-api.us-geo.objectstorage.softlayer.net/cf-courses-data/CognitiveClass/ML0101ENv3/labs/moviedataset.zip">here</a>. Unzip the data and use the respected csv files.<br><br>
 
-<a href="https://github.com/Abhinav-26/Machine-Learning-Minor-Projects/tree/master/Reddit's%20Flair%20Detection%20with%20Transfer%20Learning%20%2B%20EDA">10. Reddit's Flair Detection with Transfer Learning + EDA</a><br>
-In this directory we have created a Reddits Flair Detector. Here we are not lettting the Embedding Layer to initialize it's random weights. We are using a TRANSFER LEARNING approach to train the model. We are using FastText crawl embeddings for transfer learning. These are pre-trained word embeddings trained and released by Facebook after training on 2 million words.<br><br>
-
 <a href="https://github.com/Abhinav-26/Machine-Learning-Minor-Projects/tree/master/Dog's%20Breed%20Prediction%20Using%20Transfer%20Learning">11. Dog's Breed Prediction Using Transfer Learning</a><br>
 In this directory we have simply used the pre-trained weights and applied the concept of transfer learning for making our prediction easy. We have used three pre-trained models in this minor project ie, <b>VGG16</b>, <b>Inception_v3</b> and <b>ResNet50</b> for predicting the breed of dog. In the File <b>Prediction Comparision</b> I have used the three models for the same image to check which gives the better accuracy and we concluded we got the best accurcay by Inception_v3 model. 
 
@@ -46,4 +44,9 @@ In this project we created a Machine Learning model to check the network is unde
 
 <a href="https://github.com/Abhinav-26/Machine-Learning-Minor-Projects/tree/master/Cat-Dog%20Prediction%20using%20CNN">13. Cat-Dog Prediction Using CNN</a><br>
 In this Project I have build a Cat-Dog Prediction model using the concepts of CNN. This is a very basic project of CNN, DeepLearning. This is one of the most beginner friendly project that every beginner usually builds. This project will help you to clear the basic concepts CNN and how it can be implemented in image classification.
+
+## Natural Language Processing
+<a href="https://github.com/Abhinav-26/Machine-Learning-Minor-Projects/tree/master/Reddit's%20Flair%20Detection%20with%20Transfer%20Learning%20%2B%20EDA">10. Reddit's Flair Detection with Transfer Learning + EDA</a><br>
+In this directory we have created a Reddits Flair Detector. Here we are not lettting the Embedding Layer to initialize it's random weights. We are using a TRANSFER LEARNING approach to train the model. We are using FastText crawl embeddings for transfer learning. These are pre-trained word embeddings trained and released by Facebook after training on 2 million words.<br><br>
+
 
