@@ -51,3 +51,15 @@ In this directory we have created a Movie Recomendation system using the concept
 In this directory we have created a Reddits Flair Detector. Here we are not lettting the Embedding Layer to initialize it's random weights. We are using a TRANSFER LEARNING approach to train the model. We are using FastText crawl embeddings for transfer learning. These are pre-trained word embeddings trained and released by Facebook after training on 2 million words.<br><br>
 
 
+## Project Maintainers 
+<table>
+<tr>
+    
+<td align="center"><a href="https://github.com/Abhinav-26"><img src="https://avatars.githubusercontent.com/u/48083659?v=4" width=150px height=150px /></a></br> <h4 style="color:red;">Abhinav Dubey</h4>
+<a href="https://www.linkedin.com/in/abhinavd26/"><img src="https://mpng.subpng.com/20180324/vhe/kisspng-linkedin-computer-icons-logo-social-networking-ser-facebook-5ab6ebfe5f5397.2333748215219374063905.jpg" width="32px" height="32px"></a></td>
+
+<td align="center" ><a href="https://github.com/hritik7080"><img src="https://avatars.githubusercontent.com/u/41755284?v=4" width=150px height=150px /></a></br> <h4 style="color:red;">Hritik Gupta</h4>
+<a href="https://www.linkedin.com/in/hritik7080/"><img src="https://mpng.subpng.com/20180324/vhe/kisspng-linkedin-computer-icons-logo-social-networking-ser-facebook-5ab6ebfe5f5397.2333748215219374063905.jpg" width="32px" height="32px"></a></td>
+
+</tr>
+</table>
