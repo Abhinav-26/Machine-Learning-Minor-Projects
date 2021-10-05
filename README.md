@@ -49,7 +49,10 @@ In this directory we have created a Movie Recomendation system using the concept
 ## Natural Language Processing
 <a href="https://github.com/Abhinav-26/Machine-Learning-Minor-Projects/tree/master/Reddit's%20Flair%20Detection%20with%20Transfer%20Learning%20%2B%20EDA">13. Reddit's Flair Detection with Transfer Learning + EDA</a><br>
 In this directory we have created a Reddits Flair Detector. Here we are not lettting the Embedding Layer to initialize it's random weights. We are using a TRANSFER LEARNING approach to train the model. We are using FastText crawl embeddings for transfer learning. These are pre-trained word embeddings trained and released by Facebook after training on 2 million words.<br><br>
-
+ ## Iris Flower Classification M.L. Project
+ <a href ="https://github.com/Omgupta0312/Machine-Learning-Minor-Projects/tree/nn/Iris"> 14. Iris Flower Analysics M.L. </a><br>
+ In this M.L. project , A classification model is made to detect the types of Iris flower.Basically Iris flower has three classes named as Iris setosa,Iris versicolor and Iris virginica.These types of iris flower has different petal length & width and different sepal length & width. In the dataset each class has 50 intances each.3 training models have been used in this classification to get accurate and reliable results 1.LOGISTIC REGRESSION 2.k-nearest neigthbours and 3.DecisionTreeClassifier.
+ conclusion : One class is linearly seperable from the others 2;latter are not linearly seperable from each other.<br><br>
 
 ## Project Maintainers 
 <table>
