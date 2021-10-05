@@ -53,6 +53,17 @@ In this directory we have created a Reddits Flair Detector. Here we are not lett
  <a href ="https://github.com/Omgupta0312/Machine-Learning-Minor-Projects/tree/nn/Iris"> 14. Iris Flower Analysics M.L. </a><br>
  In this M.L. project , A classification model is made to detect the types of Iris flower.Basically Iris flower has three classes named as Iris setosa,Iris versicolor and Iris virginica.These types of iris flower has different petal length & width and different sepal length & width. In the dataset each class has 50 intances each.3 training models have been used in this classification to get accurate and reliable results 1.LOGISTIC REGRESSION 2.k-nearest neigthbours and 3.DecisionTreeClassifier.
  conclusion : One class is linearly seperable from the others 2;latter are not linearly seperable from each other.<br><br>
+ 
+ ## Computer Vision M.L. Project - Image Processing Project
+ <a href="https://github.com/Omgupta0312/Machine-Learning-Minor-Projects/tree/im2ps/Machine%20Learning%20Fundamentals/Classification/Computer%20Vision/Image%20to%20PencilSketch"> 15. Image To PencilSketch. </a><br>
+Discription :-<br>
+We need to read the image in RGB format and then convert it into a grayscale image.
+This will turn an image into a classic black and white photo.
+Then the next thing to do is invert the grayscale image also called negative image,this will be our inverted grayscale image.
+Inversion can be used to enhance the details.
+Then we can finally create the pencilsketch by mixing the grayscale image with inverted blurry image. 
+This can be done by dividing the grayscale image by the inverted blurry image.
+We will need the OpenCv library of python to do all this stuff.<br><br>
 
 ## Project Maintainers 
 <table>
