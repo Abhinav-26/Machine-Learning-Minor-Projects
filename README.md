@@ -65,6 +65,16 @@ Then we can finally create the pencilsketch by mixing the grayscale image with i
 This can be done by dividing the grayscale image by the inverted blurry image.
 We will need the OpenCv library of python to do all this stuff.<br><br>
 
+
+## Computer Vision M.L. Project - Motion Detector<br>
+<a href="https://github.com/Adarsh-Saurabh/Machine-Learning-Minor-Projects/tree/master/Machine%20Learning%20Fundamentals/Classification/Computer%20Vision/Motion%20Detector">
+16. Motion Detector</a>
+<br>
+Discription :-<br>
+In this project we are capturing the video through webcam of our pc and after we convert each frame to grayscale image or say black&white image we subtract both images from each other. As we subtract only those places will be left as bright place who are diffrent from the previous frame hence motion detected. But at this moment we cant show this to the user and also there will be a lot of noise so we create a threshold value above this all are complete white and below all are complete dark. So after this we need to mark the area in which motion is detected. Therefore we mark that area and then show it to the end user.<br>
+In process making a <strong>Motion Detector</strong><br><br>
+
+
 ## Project Maintainers 
 <table>
 <tr>
