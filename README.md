@@ -66,7 +66,7 @@ This can be done by dividing the grayscale image by the inverted blurry image.
 We will need the OpenCv library of python to do all this stuff.<br><br>
 
 
-## Computer Vision M.L. Project - Motion Detector<br>
+<!-- ## Computer Vision M.L. Project - Motion Detector<br> -->
 <a href="https://github.com/Adarsh-Saurabh/Machine-Learning-Minor-Projects/tree/master/Machine%20Learning%20Fundamentals/Classification/Computer%20Vision/Motion%20Detector">
 16. Motion Detector</a>
 <br>
