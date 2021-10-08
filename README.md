@@ -92,9 +92,10 @@ In this repository you can get some minor projects in the Machine Learning domai
 
 <summary>Natural Language Processing<br></summary>
 
+  
 - <a href="https://github.com/Abhinav-26/Machine-Learning-Minor-Projects/tree/master/Advanced%20Machine%20Learning/Natural%20Language%20Processing/Reddit's%20Flair%20Detection%20with%20Transfer%20Learning%20%2B%20EDA">14. Reddit's Flair Detection with Transfer Learning + EDA</a><br>
 
-In this directory we have created a Reddits Flair Detector. Here we are not letting the Embedding Layer to initialize it's random weights. We are using a TRANSFER LEARNING approach to train the model. We are using FastText crawl embeddings for transfer learning. These are pre-trained word embeddings trained and released by Facebook after training on 2 million words.<br><br>
+  In this directory we have created a Reddits Flair Detector. Here we are not letting the Embedding Layer to initialize it's random weights. We are using a TRANSFER LEARNING approach to train the model. We are using FastText crawl embeddings for transfer learning. These are pre-trained word embeddings trained and released by Facebook after training on 2 million words.<br><br>
 </details>
 
 <details>
