@@ -58,7 +58,10 @@ In this repository you can get some minor projects in the Machine Learning domai
 - **K-Nearest-Neighbors**
   - <a href="https://github.com/Abhinav-26/Machine-Learning-Minor-Projects/tree/master/Machine%20Learning%20Fundamentals/Classification/K-Nearest-Neighbors/Service%20Classification%20with%20K-Nearest%20Neighbors">K-Nearest Neighbors</a><br>
     In this directory a basic machine learning model is being created for classifying the class of the new customers among
-    1- Basic Service, 2- E-Service, 3- Plus Service, 4-Total Service.<br><br>
+    1- Basic Service, 2- E-Service, 3- Plus Service, 4-Total Service.<br>
+
+  - <a href="https://github.com/Abhinav-26/Machine-Learning-Minor-Projects/tree/master/Machine%20Learning%20Fundamentals/Classification/K-Nearest-Neighbors/Iris%20Flower%20Classification">Iris Flower Classification</a><br>
+    It contains the famous Iris Flower Classification project which aims to classify the iris flower into species, Versicolor, Setosa, Virginica.<br><br>
 
 - **Linear Discriminant Analysis**
   - <a href="https://github.com/Abhinav-26/Machine-Learning-Minor-Projects/tree/master/Machine%20Learning%20Fundamentals/Classification/Linear%20Discriminant%20Analysis/Feature%20Selection%20and%20Modelling%20on%20KDDCup%20Network%20Intrusion%20Dataset">Feature Selection and Modelling on KDDCup Network Intrusion Dataset</a><br>
